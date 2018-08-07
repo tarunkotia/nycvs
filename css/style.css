@@ -753,3 +753,12 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+.overlay {
+    color: red;
+    text-align: center;
+    vertical-align: bottom;        
+    position: absolute;    
+    left: 0;
+    width: 100%;
+}
